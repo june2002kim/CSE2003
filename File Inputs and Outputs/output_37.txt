@@ -1,0 +1,7 @@
+student          average pass/fail
+Hellen           89.60   p
+Amy              76.00   p
+Jack             43.15   f
+Gordon           73.60   p
+Brian            40.65   f
+total avg : 64.60
